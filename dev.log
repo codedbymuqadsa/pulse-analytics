@@ -1,0 +1,13 @@
+
+> pulse-analytics@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.28
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.18.57:3000
+
+ ✓ Starting...
+ ✓ Ready in 5.9s
+ ○ Compiling /login ...
+ ✓ Compiled /login in 24.8s (1164 modules)
+ GET /login 200 in 27044ms
